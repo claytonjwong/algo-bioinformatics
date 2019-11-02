@@ -1,0 +1,28 @@
+#
+# general
+#
+.DS_Store
+
+#
+# C
+#
+a.out
+
+#
+# C++
+#
+.idea
+cmake-build-debug
+
+#
+# java
+#
+*.iml
+*.class
+out
+
+#
+# python
+#
+.vscode
+
